@@ -24,7 +24,9 @@
         "id": 3,
         "name": "Fernanda",
         "alias": "Christina",
-        "dates": [],
+        "dates": [
+            "2025-11-04"
+        ],
         "balanceamento": 1
     },
     {
@@ -52,8 +54,7 @@
         "id": 7,
         "name": "Leandro",
         "alias": "",
-        "dates": [
-        ],
+        "dates": [],
         "balanceamento": 1
     },
     {
