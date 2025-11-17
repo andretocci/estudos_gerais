@@ -3,7 +3,9 @@
         "id": 0,
         "name": "Aline",
         "alias": "",
-        "dates": [],
+        "dates": [
+            "2025-11-05"
+        ],
         "balanceamento": 2
     },
     {
@@ -17,7 +19,9 @@
         "id": 2,
         "name": "Passeto",
         "alias": "Cria do interior paulista",
-        "dates": [],
+        "dates": [
+            "2025-11-06"
+        ],
         "balanceamento": 2
     },
     {
@@ -33,7 +37,9 @@
         "id": 4,
         "name": "Rayan",
         "alias": "Jovem",
-        "dates": [],
+        "dates": [
+            "2025-11-10"
+        ],
         "balanceamento": 2
     },
     {
@@ -54,14 +60,18 @@
         "id": 7,
         "name": "Leandro",
         "alias": "",
-        "dates": [],
+        "dates": [
+            "2025-11-14"
+        ],
         "balanceamento": 1
     },
     {
         "id": 8,
         "name": "Claudio",
         "alias": "",
-        "dates": [],
+        "dates": [
+            "2025-11-11"
+        ],
         "balanceamento": 2
     },
     {
@@ -75,7 +85,9 @@
         "id": 10,
         "name": "Pina",
         "alias": "Colada",
-        "dates": [],
+        "dates": [
+            "2025-11-12"
+        ],
         "balanceamento": 1
     },
     {
@@ -89,14 +101,18 @@
         "id": 12,
         "name": "Rafa Machado",
         "alias": "",
-        "dates": [],
+        "dates": [
+            "2025-11-13"
+        ],
         "balanceamento": 2
     },
     {
         "id": 13,
         "name": "Tocci",
         "alias": "",
-        "dates": [],
+        "dates": [
+            "2025-11-07"
+        ],
         "balanceamento": 2
     },
     {
